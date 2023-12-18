@@ -1,4 +1,4 @@
-<h2>(TC20™)🙏🏻, I'm Adalah pemogramer amatiran! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>(TC20™), I'm Adalah pemogramer amatiran! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>App dan website <a href="http://tc20tutorial.blogspot.com">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -70,7 +70,8 @@ Replit                   2 hrs 28 mins       ███░░░░░░░░�
 
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
+Linux                    17 hrs 5 mins       █████████████████████████   100.0%
+Android                  17 hrs 5 mins       █████████████████████████   100.0%
 ```
 <!--END_SECTION:waka-->
 
